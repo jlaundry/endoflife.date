@@ -203,8 +203,8 @@ releases:
 > developed by Atlassian.
 
 {: .warning }
-> Atlassian will end support for Confluence Server [on February 15, 2024](https://www.atlassian.com/migration/assess/journey-to-cloud).
-> And starting from 8.6.x, new releases of Confluence are available only to Data Center customers.
+> Atlassian ended support for Confluence Server [on February 15, 2024](https://www.atlassian.com/migration/assess/journey-to-cloud).
+> Starting from 8.6.x, new releases of Confluence are available only to Data Center customers.
 
 Confluence is available both as SaaS and on-premises offer, with three editions:
 
